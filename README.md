@@ -1,1 +1,2 @@
 # TryIT
+Jana okos-naptára:
