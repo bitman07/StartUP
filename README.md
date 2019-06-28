@@ -1,4 +1,4 @@
-# TryIT
+# *Insert Name Here*
 Alább megtalálhatóak a jelenleg tervezés alatt álló projektek.
 
 ## CleverDates:
