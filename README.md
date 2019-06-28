@@ -2,7 +2,7 @@
 Alább megtalálhatóak a jelenleg tervezés alatt álló projektek.
 
 ## CleverDates:
-Egy okos-naptár, mely figyeli a felhasználó tevékenységeit - Facebook-tevékenység, helymeghatározás, bevett szokások, stb., ezzel többek között lehetővé téve azt, hogy a felhasználó eseményei automatikusan tárolásra kerüljenek.
+Egy okos-naptár, mely figyeli a felhasználó tevékenységeit - Facebook-tevékenység, helymeghatározás, bevett szokások, telefonhívások, stb., ezzel többek között lehetővé téve azt, hogy a felhasználó eseményei automatikusan tárolásra kerüljenek.
 
 Google-höz hasonló lekéréseket végez áruházokból/mozikból/kávézókból illetve az utak állapotáról. És ezek alapján javaslatokat ad a felhasználónak az adott események lemondására vagy áthelyezésére esetleg mas opciokat ajanl (jobb utvonal, uresebb bolt stb.)
 
