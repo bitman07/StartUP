@@ -1,4 +1,4 @@
-# *Insert Name Here*
+# *CodeIT*
 Alább megtalálhatóak a jelenleg tervezés alatt álló projektek.
 
 ## CleverDates:
