@@ -1,4 +1,4 @@
-# *CodeIT*
+# *StartUP*
 Alább megtalálhatóak a jelenleg tervezés alatt álló projektek.
 
 ## CleverDates:
@@ -11,3 +11,4 @@ Google-höz hasonló lekéréseket végez áruházokból/mozikból/kávézókbó
 - Ha olyan eseményt jelent be a felhaszn. ahol már van egy meglévő eseménye, figyelmezteti (és akár törli a régit).
 - Felhasználó elé javarészt eldöntendő kérdéseket tesz (IGEN/NEM option) a könnyű kezelhetőség ill. amiatt, hogy ne legyen időigényes.
 - Log In típusú app, like felhasználók vannak és így érik el a szolgáltatásokat és így más eszközökről is elérhető (nem lesz eszközhöz kötött)
+- A felhasználó emailjeit regex segítségével szkennelve ha dátumot talál, akkor ha az esemény jövőbeli, beilleszti a naptárba az időpontot eseményként, mégpedig azzal a névvel, ami a tárgya az emailnek. Hogyha olyan embertől kapta az emailt, aki benne van a kontaktjaiban a felhasználónak, akkor azt a nevet is hozzáteszi; Pl.: Közös vacsora "NÉV" társaságában. 
