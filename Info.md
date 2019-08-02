@@ -12,3 +12,8 @@ Google-höz hasonló lekéréseket végez áruházokból/mozikból/kávézókbó
 - Felhasználó elé javarészt eldöntendő kérdéseket tesz (IGEN/NEM option) a könnyű kezelhetőség ill. amiatt, hogy ne legyen időigényes.
 - Log In típusú app, like felhasználók vannak és így érik el a szolgáltatásokat és így más eszközökről is elérhető (nem lesz eszközhöz kötött)
 - A felhasználó emailjeit regex segítségével szkennelve ha dátumot talál, akkor ha az esemény jövőbeli, beilleszti a naptárba az időpontot eseményként, mégpedig azzal a névvel, ami a tárgya az emailnek. Hogyha olyan embertől kapta az emailt, aki benne van a kontaktjaiban a felhasználónak, akkor azt a nevet is hozzáteszi; Pl.: Közös vacsora "NÉV" társaságában. 
+
+## Project Ice
+Egy túlélő játék, mely nagy valószínűséggel a Unity Engine segítségével fog elkészülni. A főszereplő egy kutató a közeljövőbeli Északi-sarkon, aki hajótöröttként él egy ideig egy jégszigeten, majd megpróbál hazautat keresni.
+
+#### Ötletek: KÜLÖN FILEBAN RENDSZEREZVE -- LÁSD: ICE.MD
